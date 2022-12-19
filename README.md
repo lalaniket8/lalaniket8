@@ -1,4 +1,4 @@
-# 💫 About Me:
+# :sunglasses: About Me:
 I am studying Computer Science Research at IIT Bombay. Worked on Full Stack Projects and Research Tool development.<br>I have a good grasp on cpp and python along with other languages as well.<br>Stay CURIOUS!
 
 
@@ -11,9 +11,6 @@ I am studying Computer Science Research at IIT Bombay. Worked on Full Stack Proj
 ![](https://github-readme-stats.vercel.app/api?username=lalaniket8&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=lalaniket8&theme=highcontrast&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=lalaniket8&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=lalaniket8&icon=5&color=0)](https://visitcount.itsvg.in)
