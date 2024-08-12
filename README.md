@@ -1,5 +1,5 @@
 # About Me:
-I am studying Computer Science Research at IIT Bombay. Worked on Full Stack Projects and Research Tool development.<br>I have a good grasp on cpp and python along with other languages as well.<br>Stay CURIOUS!
+GPU Compiler engineer at AMD
 
 
 ## Socials:
